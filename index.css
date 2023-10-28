@@ -266,7 +266,7 @@ margin-top:-40px;
 
 .skills-list {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: space-around;
 }
 
